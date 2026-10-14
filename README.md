@@ -29,7 +29,7 @@ pip install pygame
    ```
 
 ## 🕹️ Controls (Default)
-* **W, A, S, D** or **Arrow Keys** — Move the player
+* **W, A, S, D** or **Arrow Keys** — Move the players
 * **Spacebar** or **Left Click** — Shoot projectiles
 * **Esc** — Quit the game
 
