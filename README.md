@@ -8,7 +8,7 @@ A lightweight, Python-based **2D shooting game** framework designed to handle re
 * **FPS Counter:** Performance optimization script (`fps.py`) to monitor frame rates.
 
 ## 🛠️ Prerequisites
-Make sure you have Python installed on your system. This project typically relies on the **Pygame** library of Python.
+Make sure you have Python installed on your system. This project typically relies on the **Pygame** library for Python.
 
 ```bash
 pip install pygame
