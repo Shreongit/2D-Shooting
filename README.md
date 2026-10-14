@@ -3,7 +3,7 @@
 A lightweight, Python-based **2D shooting game** framework designed to handle real-time rendering, movement mechanics, and FPS optimization.
 
 ## 🚀 Features
-* **Smooth 2D Movement:** Responsive player controls.
+* **Smooth 2D Movement:** Responsive player control.
 * **Shooting Mechanics:** Real-time projectile handling.
 * **FPS Counter:** Performance optimization script (`fps.py`) to monitor frame rates.
 
